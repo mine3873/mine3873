@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+---
+I'm **Seung Jun Lee**.   
+
 
 <!--
 **mine3873/mine3873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
