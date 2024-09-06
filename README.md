@@ -1,6 +1,15 @@
-# Hi there 👋
----
-I'm **Seung Jun Lee**.   
+
+  
+<div align = "center">
+  
+  # Hi there 👋
+  
+  I'm **Seung Jun Lee**. 
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mine3030)](https://solved.ac/mine3030)
+  
+</div>
+
 
 
 <!--
