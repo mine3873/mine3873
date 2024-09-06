@@ -8,7 +8,7 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mine3030)](https://solved.ac/mine3030)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine3873)](https://github.com/mine3873/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine3873&layout=pie)](https://github.com/mine3873/github-readme-stats)
   
 </div>
 
